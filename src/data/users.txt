@@ -1,0 +1,7 @@
+Jerry,123,120
+Robin,123,90
+groot,123,150
+sigma,123,800
+vivaan,123,67
+dylan,123,260
+jerry,123,360
